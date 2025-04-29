@@ -1,0 +1,30 @@
+﻿@page
+@model TP1_Razor.Pages.CreateModel
+@{
+	ViewData["Title"] = "Adicionar eVENTO";
+}
+
+<h2>Cadastrar Evento</h2>
+
+<form method="post">
+	<div>
+		<label for="Titulo">Título:</label>
+		<input type="text" id="Titulo" name="Titulo" />
+	</div>
+	<div>
+		<label for="Data">Data:</label>
+		<input type="date" id="Data" name="Data" />
+	</div>
+	<div>
+		<label for="Local">Local:</label>
+		<input type="text" id="Local" name="Local" />
+	</div>
+	<button type="submit">Salvar</button>
+</form>
+
+@if (Model.Message != null)
+{
+	<div>
+		<strong>@Model.Message</strong>
+	</div>
+}
