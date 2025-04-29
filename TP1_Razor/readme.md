@@ -13,6 +13,8 @@ Aplicativos web baseados em Razor Pages são comuns em sistemas internos e portai
 
 Com este exercício você começa a construir aplicações web completas com estrutura MVC simplificada.
 
+![Exercício 08](prints_readme/ex08.png)
+
 ---
 
 ## 9 Exploração da Estrutura de Projeto ASP.NET Core
