@@ -34,22 +34,6 @@ Esse exercício mostra o ciclo básico de entrada e exibição de dados no modelo Ra
 
 ---
 
-## 11 Manipulação de Strings com Delegates Encadeados
-
-Transformações encadeadas são comuns em pipelines de processamento.
-
-**Tarefas:**
-
-- Crie um `Func<string, string, string>` que concatene nome e sobrenome.
-- Encadeie mais dois métodos no delegate:
-  - Um que converta a string para maiúsculas.
-  - Outro que remova espaços em branco.
-- Observe e analise o comportamento do resultado.
-
-Esse exercício ajuda a compreender o comportamento de retorno em delegates multicast.
-
----
-
 ## 12 Integração de Delegates e Eventos em Aplicação Web
 
 Sistemas modernos integram lógica de negócio com eventos para rastrear operações de forma centralizada.
