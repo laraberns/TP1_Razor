@@ -17,23 +17,6 @@ Com este exercício você começa a construir aplicações web completas com estrutur
 
 ---
 
-## 9 Exploração da Estrutura de Projeto ASP.NET Core
-
-Compreender a estrutura do projeto ASP.NET Core é essencial para manutenção e evolução de aplicações.
-
-**Tarefas:**
-
-A partir do projeto criado no exercício anterior, responda:
-
-- Qual a função da pasta Pages?
-- O que faz o arquivo Program.cs?
-- Onde são configurados os serviços da aplicação?
-- Como é feito o roteamento de URLs?
-
-Entregue as respostas em arquivo .docx ou .pdf.
-
----
-
 ## 10 Implementação de Formulário em Razor Pages
 
 Cadastros são uma funcionalidade central em aplicações web.
@@ -45,6 +28,9 @@ Cadastros são uma funcionalidade central em aplicações web.
 - Ao submeter o formulário, exiba os dados preenchidos de volta na página.
 
 Esse exercício mostra o ciclo básico de entrada e exibição de dados no modelo Razor Pages.
+
+![Exercício 10](prints_readme/ex10_1.png)
+![Exercício 10](prints_readme/ex10_2.png)
 
 ---
 
